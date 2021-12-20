@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daftar Rumah Sakit</string>
+    <string name="title_activity_maps">Sijelum</string>
+    <string name="app_key" translatable="false">AIzaSyC26irrdGzwsnk36TkGCYS5dt2TgK4IwRo</string>
+</resources>
